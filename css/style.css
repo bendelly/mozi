@@ -150,6 +150,7 @@ footer li {
 	#top-text {
 		position: relative;
 		padding: 30px 0;
+		height: auto;
 	}
 	#top-text p {
 		width: 100%;
